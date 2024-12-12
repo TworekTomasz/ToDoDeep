@@ -22,7 +22,6 @@ In this case more like a place for ideas and notes.
   - status: Status
   - dueDate: LocalDate
   - priority: Priority
-  - category: Category
   - tags: Set<Tag>
   - assignee: User
   - creator: User
